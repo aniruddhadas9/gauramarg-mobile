@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038588735855",
+    "project_id": "gauramarg-firebase",
+    "storage_bucket": "gauramarg-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038588735855:android:6d8a414ad69901b144b89a",
+        "android_client_info": {
+          "package_name": "com.example.gauramarg_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038588735855-3qlbmc9nptp5q6vidaef01su2l8cqtc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-iE9DVd6ngodoZ3OZZ91TOIyqeajWCiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038588735855-3qlbmc9nptp5q6vidaef01su2l8cqtc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
